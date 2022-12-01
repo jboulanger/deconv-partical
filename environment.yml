@@ -10,6 +10,6 @@ dependencies:
   - pandas
   - scikit-image
   - scipy
-  - pip:
-    - git+https://github.com/jboulanger/Analysis-of-Microscopy-Images-in-Python.git
+  #- pip:
+  #  - git+https://github.com/jboulanger/Analysis-of-Microscopy-Images-in-Python.git
     
