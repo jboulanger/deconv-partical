@@ -1,0 +1,15 @@
+name: tpdeconv
+channels:  
+  - conda-forge
+  - defaults
+dependencies:
+  - ipython
+  - ipykernel
+  - pip
+  - matplotlib
+  - pandas
+  - scikit-image
+  - scipy
+  - pip:
+    - git+https://github.com/jboulanger/Analysis-of-Microscopy-Images-in-Python.git
+    
